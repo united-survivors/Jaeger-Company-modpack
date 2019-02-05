@@ -1,10 +1,9 @@
 # Jaeger Company mod pack
 
-##A mod pack made for Jager Company, a unit whitin United Survivors
+## A mod pack made for Jager Company, a unit whitin United Survivors
 
 [United Survivors](https://www.unitedsurvivors.org/arma3) - Website for the unit
-```
-
+---
 ### Mod list
 
 * [ACE Compat - RHS Armed Forces of the Russian Federation](https://steamcommunity.com/sharedfiles/filedetails/?id=773131200)
