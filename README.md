@@ -1,6 +1,6 @@
 # Jaeger Company mod pack
 
-**A mod pack made for Jager Company, a unit whitin United Survivors**
+**A mod pack made for Jager Company, a unit within United Survivors**
 
 [United Survivors](https://www.unitedsurvivors.org/arma3) - Website for the unit
 
@@ -20,4 +20,4 @@
 * [Task Force Arrowhead Radio (BETA!!!)](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801)
 
 
-###### If you're a owner of one of the included mods and would like it removed, please contact me at: contact@unitedsurvivors.org
+###### If you're an owner of one of the included mods and would like it removed, please contact me at: contact@unitedsurvivors.org
