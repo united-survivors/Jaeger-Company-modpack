@@ -17,7 +17,7 @@
 * [Eden Extended Objects](https://steamcommunity.com/sharedfiles/filedetails/?id=882231372)
 * [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?id=333310405)
 * [ShackTac User Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=498740884)
-* [Task Force Arrowhead Radio BETA!!!] (https://steamcommunity.com/sharedfiles/filedetails/?id=894678801)
+* [Task Force Arrowhead Radio (BETA!!!)](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801)
 
 
 ###### If you're a owner of one of the included mods and would like it removed, please contact me at: contact@unitedsurvivors.org
