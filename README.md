@@ -20,4 +20,4 @@
 * [Task Force Arrowhead Radio (BETA!!!)](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801)
 
 
-###### If you're an owner of one of the included mods and would like it removed, please contact me at: contact@unitedsurvivors.org
+###### If you're an owner of one of the included mods and would like it removed, please contact me at contact@unitedsurvivors.org
