@@ -1,6 +1,6 @@
 # Jaeger Company modpack
 
-**A modpack made for Jager Company, a unit within United Survivors**
+**A modpack made for Jaeger Company, a unit within United Survivors**
 
 [United Survivors](https://www.unitedsurvivors.org/arma3) - Website for the unit
 
