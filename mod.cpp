@@ -1,13 +1,13 @@
 /// Name of your mod
-name = "Jaeger Company mod pack";
+name = "Jaeger Company modpack";
 /// Picture displayed from the expansions menu/ Optimal size is 2048x1024, other sizes work too
-picture = "ws_rhs.paa"; 
+picture = "jaeger_logo.paa"; 
 /// Display next to the item added by the mod
-logoSmall = "ws_rhs.paa";
+logoSmall = "jaeger_logo.paa";
 /// Logo displayed in the main menu
-logo = "ws_rhs.paa";
+logo = "jaeger_logo.paa";
 /// When the mouse is over, in the main menu
-logoOver = "ws_rhs.paa";
+logoOver = "jaeger_logo.paa";
 /// Website URL, that can accessed from the expansions menu
 action = "https://www.unitedsurvivors.org/arma3";
 /// Tool tip displayed when the mouse is left over, in the main menu
