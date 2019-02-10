@@ -1,10 +1,11 @@
-name = "Jaeger Company modpack";
+name = "Jaeger Company modpack 0.4.1";
 picture = "jaeger_logo.paa"; 
 logoSmall = "jaeger_logo.paa";
 logo = "jaeger_logo.paa";
 logoOver = "jaeger_logo.paa";
 actionName = "GitHub";
 action = "https://github.com/united-survivors/Jaeger-Company-modpack";
+tooltip = "Jaeger Pack";
 tooltipOwned = "Jaeger Pack Owned";
 overview = "A modpack made for Jaeger Company, a unit within United Survivors";
 hideName = 0;
