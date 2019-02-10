@@ -2,6 +2,8 @@
 
 **A modpack made for Jaeger Company, a unit within United Survivors**
 
+**This pack is intended for private use within Jaeger Company and not the public!**
+
 [United Survivors](https://www.unitedsurvivors.org/arma3) - Website for the unit
 
 ---
