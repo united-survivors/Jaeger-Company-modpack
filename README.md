@@ -10,6 +10,7 @@
 
 ### Mod list
 
+* [ACE 3 Extension (Animations and Actions)](https://steamcommunity.com/sharedfiles/filedetails/?id=766491311)
 * [ACE Compat - RHS Armed Forces of the Russian Federation](https://steamcommunity.com/sharedfiles/filedetails/?id=773131200)
 * [ACE Compat - RHS United States Armed Forces](https://steamcommunity.com/sharedfiles/filedetails/?id=773125288)
 * [Achilles](https://steamcommunity.com/sharedfiles/filedetails/?id=723217262)
