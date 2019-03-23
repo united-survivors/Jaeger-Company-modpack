@@ -1,4 +1,4 @@
-name = "Jaeger Company modpack 0.4.1";
+name = "Jaeger Company modpack 0.5";
 picture = "jaeger_logo.paa"; 
 logoSmall = "jaeger_logo.paa";
 logo = "jaeger_logo.paa";
